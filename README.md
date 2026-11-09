@@ -25,5 +25,5 @@ A Retrieval-Augmented Generation (RAG) system built with Python, ChromaDB, and G
 ## Setup & Execution
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/](https://github.com/)<your-username>/doc-query-rag.git
+   git clone [https://github.com/](https://github.com/)<muhammadxel>/doc-query-rag.git
    cd doc-query-rag
