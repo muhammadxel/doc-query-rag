@@ -3,3 +3,4 @@ chromadb
 google-genai
 pypdf
 python-dotenv
+pysqlite3-binary
